@@ -14,7 +14,6 @@
 <body>
 
 <div class="main">
-    <br>
     <img src="download.jpg"  style="width:225px;height:100px;">
     <center><h1>Forts of India</h1></center>
 </div>

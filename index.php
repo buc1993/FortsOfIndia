@@ -58,7 +58,6 @@
     <img src="Golconda-Fort-hyderabad.jpg" style="width:240px;height:150px;">
     <p>Situated just 11 kilometers away from the city of Hyderabad, Golkonda Fort is not that famous among the tourists as the Red Fort in Delhi or the Agra fort.
         But still, it is one of the best places to visit which will mounts up to your expectations while you are in a cultural tour to India.</p>
-    <p>It was originally built by Kakatiya Dynasty which was later ruled by Ibrahim Quli Qutub Shah Wali. </p>
 </div>
 
 </body>

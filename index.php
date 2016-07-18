@@ -43,7 +43,7 @@
     <h2>Agra Fort, Agra </h2>
     <img src="Agra-Fort.jpg" style="width:240px;height:150px;">
     <p>Though the city of Agra is most famous for its iconic Taj Mahal, but there are several other architectural wonders that still make it one of the best destination for a cultural tour to India.</p>
-    <p>The red giant structure of Agra fort speaks volumes about the Mughal dynasty, their rise and fall in the country of India. While you enter inside this fort, a beautifully manicured lawn gives you a green carpet welcome.</p>
+    <p>The red giant structure of Agra fort speaks volumes about the Mughal dynasty, their rise and fall in the country of India.</p>
 </div>
 
 <div class="fort">

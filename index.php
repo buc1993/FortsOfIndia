@@ -21,8 +21,8 @@
 <div class="data">
     <h2>Forts in India : The Living Legends</h2>
     <p><h4>India is dotted with numerous forts which can be aptly referred to as the living legends.
-    Each of these forts are replete with saga of romance, chivalry, valor and inevitable deceit and intrigues of court politics.
-    Some of the forts are brilliant specimen of architecture designed and constructed by the humans.
+    Each of these forts are replete with saga of romance, chivalry, valor and inevitable deceit and intrigues of court politics.</h4></p>
+    <p><h4>Some of the forts are brilliant specimen of architecture designed and constructed by the humans.
     In the forts built during the medieval period, the influence of various art forms from around the world can be well witnessed.</h4></p>
 </div>
 

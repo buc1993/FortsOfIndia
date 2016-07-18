@@ -20,10 +20,10 @@
 </div>
 <div class="data">
     <h2>Forts in India : The Living Legends</h2>
-    <p><h3>India is dotted with numerous forts which can be aptly referred to as the living legends.
-    Each of these forts are replete with saga of romance, chivalry, valor and inevitable deceit and intrigues of court politics.</h3></p>
-    <p><h3>Some of the forts are brilliant specimen of architecture designed and constructed by the humans.
-    In the forts built during the medieval period, the influence of various art forms from around the world can be well witnessed.</h3></p>
+    <p><h4>India is dotted with numerous forts which can be aptly referred to as the living legends.
+    Each of these forts are replete with saga of romance, chivalry, valor and inevitable deceit and intrigues of court politics.
+    Some of the forts are brilliant specimen of architecture designed and constructed by the humans.
+    In the forts built during the medieval period, the influence of various art forms from around the world can be well witnessed.</h4></p>
 </div>
 
 <div class="fort">

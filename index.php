@@ -36,7 +36,7 @@
     <h2>Amber Fort, Jaipur</h2>
     <img src="Amber-Fort.jpg" style="width:240px;height:150px;">
     <p>A beautiful gemstone in the royal crown of Rajasthan, Jaipur charms the guests with its fleet of palaces and forts. One of the most visited and beguiling of Jaipur forts is the Amber Fort, situated in a serene backdrop of the Aravali Hill.</p>
-    <p>When you reach the fort, you will get a warm welcome by the silent wavelets of the Maota Lake. The blend of Hindu, Rajput and Mughal architectural style adorn the fort and make the guests let them loose to its grandeur of presentation.</p>
+    <p>When you reach the fort, you will get a warm welcome by the silent wavelets of the Maota Lake. </p>
 </div>
 
 <div class="fort">

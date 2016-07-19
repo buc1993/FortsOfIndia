@@ -13,7 +13,7 @@
 <div class="outer">
   <div class="innerleft" style="max-width:320px">
     <br>
-    <img src="img/download.jpg" width="100%" style="width:100%;height:100px;" />
+    <img src="download.jpg" width="100%" style="width:100%;height:100px;" />
     <center>
       <h2>POPULAR FORTS</h2></center>
   </div>
